@@ -17277,7 +17277,7 @@ img {
 #site-header .toggle-container .toggle-switch {
     width: 40px;
     height: 18px;
-    background: linear-gradient(180deg,#e04179 0,#f49d33 100%);
+    background: linear-gradient(180deg,#e04179 0,#b233f4 100%);
     border-radius: 50px;
     position: relative
 }
@@ -17306,7 +17306,7 @@ img {
 }
 
 #site-header .toggle-container.light-mode .toggle-switch {
-    background: linear-gradient(180deg,#f49d33 0,#a1306c 100%)
+    background: linear-gradient(180deg,#b233f4 0,#a1306c 100%)
 }
 
 #site-header .toggle-container.light-mode .toggle-switch:before {
@@ -17641,7 +17641,7 @@ img {
 }
 
 .page-home {
-    background: 0 0
+    /*background: 0 0*/
 }
 
 @media (max-width: 767px) {
