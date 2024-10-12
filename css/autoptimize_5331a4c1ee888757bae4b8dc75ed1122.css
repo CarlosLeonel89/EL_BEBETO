@@ -16875,7 +16875,7 @@ img {
 }
 
 #site-footer {
-    background: url(../images/background.png)center #5a007b;
+    background: url(../images/background.png)center #d54608;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -17208,14 +17208,14 @@ img {
 #site-header #slide-menu-gr .slide-menu-gr-parent>.slide-menu-gr-item a:after {
     width: 0;
     height: 1px;
-    background: linear-gradient(180deg,#ee33f4 0,#ba63f9 100%);
+    background: linear-gradient(180deg,#bc4e04 0,#eb8407 100%);
     display: block;
     transition: all .3s ease;
     content: ""
 }
 
 #site-header #slide-menu-gr .slide-menu-gr-parent>.slide-menu-gr-item a:hover,#site-header #slide-menu-gr .slide-menu-gr-parent>.slide-menu-gr-item.current-menu-item a,.single-post #site-header #slide-menu-gr .slide-menu-gr-parent>.slide-menu-gr-item a[href*="news/"] {
-    background: linear-gradient(180deg,#ee33f4 0,#ba63f9 100%);
+    background: linear-gradient(180deg,#bc4e04 0,#eb8407 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -17277,7 +17277,7 @@ img {
 #site-header .toggle-container .toggle-switch {
     width: 40px;
     height: 18px;
-    background: linear-gradient(180deg,#e04179 0,#b233f4 100%);
+    background: linear-gradient(180deg,#000000 0,#000000 100%);
     border-radius: 50px;
     position: relative
 }
@@ -17306,7 +17306,7 @@ img {
 }
 
 #site-header .toggle-container.light-mode .toggle-switch {
-    background: linear-gradient(180deg,#b233f4 0,#a1306c 100%)
+    background: linear-gradient(180deg,#f43333 0,#a13030 100%)
 }
 
 #site-header .toggle-container.light-mode .toggle-switch:before {
